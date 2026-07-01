@@ -6,7 +6,7 @@ Aspiring MERN Stack developer with hands-on experience in crafting interactive w
 
 - 🔭 I’m currently working on **Shopping App**
 - 🌱 I’m currently learning **React-three/fiber**
-- 💬 Ask me about **React, Express, React Native, MongoDB, Tailwind CSS, Redux**
+- 💬 Ask me about React, Express.js, React Native, MongoDB, Tailwind CSS, Redux, AWS Services, Java, and Spring Boot Basics
 - 📫 How to reach me: chiranjitmukherjee071@gmail.com
 - ⚡ Fun fact: I never give up on coding challenges. Once, I spent a whole weekend fixing just one line of code. It turned out to be a small mistake, but I kept at it until I found the solution. That experience taught me the importance of not giving up, no matter how tough things get.
 
